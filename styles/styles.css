@@ -8,6 +8,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 200px;
+    margin-bottom: 5px;
 }
 .lcontainer
 {
@@ -193,6 +194,7 @@ img
   justify-content: center;
   align-items: start;
   margin-top: 0;
+        margin-bottom:5px;
     }
     .lcontainer
 {
